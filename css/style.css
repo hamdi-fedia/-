@@ -43,8 +43,8 @@ span , input{
 /*----------------------------navbar-----------------------*/
 
 .nav-item {
-    margin-left: 60px;
-    margin-right: 90px;
+    margin-left: 30px;
+    margin-right: 60px;
 }
 .dropdown-item{
    text-align: justify;
@@ -196,3 +196,23 @@ b{
   a:hover{
       color: green;
   }
+footer{
+    background-color: #eceaea;
+    padding-top: 20px;
+}
+h3{
+    margin-right: 40px;
+    margin-bottom: 20px;
+}
+footer li{
+    line-height: 2;
+}
+li:hover{
+    color: green;
+    font-size: 15px;
+}
+
+.social p{
+    background-color: green;
+    margin: 0;
+}
